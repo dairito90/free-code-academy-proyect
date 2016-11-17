@@ -1,0 +1,28 @@
+.steve-text{
+text-align: center;
+font-family: cursive ,monospace;
+font-size: 300px;
+
+}
+body{
+background-color: #D3D3D3;
+}
+
+li{
+text-align:justify;
+font-size: 50px;
+font-family: cursive, monospace;
+
+}
+img{
+  margin:auto;
+  display: block;
+  opacity: 0.3;
+   filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+img:hover{
+  opacity: 1.0;
+     filter: alpha(opacity=100); /* For IE8 and earlier */
+
+}
